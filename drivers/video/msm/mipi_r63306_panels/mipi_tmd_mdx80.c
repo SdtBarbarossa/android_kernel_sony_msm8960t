@@ -1,3 +1,5 @@
+
+
 /* drivers/video/msm/mipi_r63306_panels/mipi_tmd_mdx80.c
  *
  * Copyright (C) [2011] Sony Ericsson Mobile Communications AB.
